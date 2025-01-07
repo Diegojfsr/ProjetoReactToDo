@@ -19,4 +19,4 @@ A todo list app with HTML, CSS & JavaScript
 Todos os contribuidores são muito bem-vindos! Isto é definitivamente open source!
 
 Repositório de Referência:
-[https://github.com/Lordwill1/todo-list](To-Do-List)  
+[To-Do-List](https://github.com/Lordwill1/todo-list)
